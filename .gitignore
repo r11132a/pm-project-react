@@ -1,0 +1,10 @@
+# Ignore Vim/gVim files
+*~
+*.sw*
+
+.DS_Store
+
+node_modules/
+public/dist/
+.env.test
+.env.development
